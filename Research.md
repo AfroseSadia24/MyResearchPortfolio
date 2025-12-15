@@ -51,7 +51,7 @@ https://github.com/AfroseSadia24/ml-polymer-drug-delivery
 ## 🧠 Skills and Tools
 - **Programming:** Python, scikit-learn, NumPy, pandas, Matplotlib
 - **Machine Learning:** Regression, classification, cross-validation, interpretability
-- **Experimental:** NMR, Raman spectroscopy, PCR, gel electrophoresis
+- **Experimental:** NMR, Raman spectroscopy, PCR, gel electrophoresis, DSC, WAXD
 - **Data Analysis:** Feature engineering, PCA, SHAP
 
 ---
